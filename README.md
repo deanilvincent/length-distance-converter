@@ -2,6 +2,8 @@
 
 NPM package for metric conversions (Length/distance converter).
 
+[![Build Status](https://travis-ci.org/deanilvincent/length-distance-converter.svg?branch=master)](https://travis-ci.org/deanilvincent/length-distance-converter)
+
 ## Installation
 `npm i length-distance-converter --save`
 
