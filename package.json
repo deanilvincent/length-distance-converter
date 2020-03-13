@@ -1,7 +1,7 @@
 {
   "name": "length-distance-converter",
   "version": "1.0.0",
-  "description": "NPM package for metric conversions (Length-distance converter).",
+  "description": "NPM package for metric conversions (Length/distance converter).",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -9,10 +9,19 @@
   "keywords": [
     "length-distance",
     "km-to-miles",
-    "meters-to-yards",
+    "miles-to-km",
+    "meters-to-yard",
+    "yards-to-meter",
+    "meters-to-feet",
+    "feet-to-meters",
     "yards-to-feet",
+    "feet-to-yards",
     "cm-to-inches",
-    "feet-to-inches"
+    "inches-to-cm",
+    "mm-to-inches",
+    "inches-to-mm",
+    "feet-to-inches",
+    "inch-to-feet"
   ],
   "author": "dvincent",
   "license": "MIT",
