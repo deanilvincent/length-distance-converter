@@ -7,12 +7,20 @@
     "test": "mocha"
   },
   "keywords": [
-    "length-distance",
+    "miles-to-km",
     "km-to-miles",
-    "meters-to-yards",
+    "meters-to-yard",
+    "yards-to-meter",
+    "meters-to-feet",
+    "feet-to-meters",
     "yards-to-feet",
+    "feet-to-yards",
     "cm-to-inches",
-    "feet-to-inches"
+    "mm-to-inches",
+    "inch-to-mm",
+    "mm-to-inch",
+    "feet-to-inches",
+    "inch-to-feet"
   ],
   "author": "dvincent",
   "license": "MIT",
