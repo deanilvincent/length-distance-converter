@@ -1,7 +1,7 @@
 {
   "name": "length-distance-converter",
   "version": "1.0.0",
-  "description": "NPM package for metric conversions (Length-distance converter).",
+  "description": "NPM package for metric conversions (Length/distance converter).",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
