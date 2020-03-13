@@ -1,6 +1,6 @@
 {
   "name": "length-distance-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package for metric conversions (Length/distance converter).",
   "main": "index.js",
   "scripts": {
